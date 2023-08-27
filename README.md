@@ -7,7 +7,11 @@ Built user-friendly RESTful APIs with Spring Data JPA, making it simple to manag
  Here's how to get started:
 
 📦 Clone this repository to your computer.
+
 🚀 Navigate to the project folder.
+
 🛠️ Configure applications.yml
+
 ⚙️ Configure your database connection in application.properties.
+
 🏃‍♂️ Build and run the app. You're good to go!
